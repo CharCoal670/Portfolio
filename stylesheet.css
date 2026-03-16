@@ -62,3 +62,9 @@ body {
         text-align: center;
     }
 }
+
+.cert {
+    display: inline;
+    border-style: solid;
+    margin-left: 5px;
+}
